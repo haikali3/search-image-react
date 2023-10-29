@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Web Application integrated with Unsplash API
+
+This project is seamlessly integrated with the [Unsplash API](https://unsplash.com/developers) to source stunning free to use photos.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
